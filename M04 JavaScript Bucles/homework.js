@@ -117,6 +117,10 @@ function esEntero(num) {
    // Tu código:
    if (num % 1 === 0) return true;
    else return false;
+   //Opcion 2
+   //if (Number.isInteger(num)) return true;
+   //else return false;
+   //Opcion 3
    //return Number.isInterger(num);
 }
 
